@@ -62,7 +62,7 @@ Algunos de los comandos que más utilizo en Visual Studio Code
 
 #### Para crear mas cursores |..
 
-    ALT + CLIC raton
+    ALT + CLIC ratón
     ó
     CTRL + ALT + ↕
 
