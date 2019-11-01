@@ -1,6 +1,6 @@
 # Comandos
 Algunos de los comandos que más utilizo en Visual Studio Code
-(https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+![ja](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
 
 #### Buscar toda la pesca > :
 
